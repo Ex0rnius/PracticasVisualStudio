@@ -1,0 +1,17 @@
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\bin\Debug\net6.0-windows\Practica1GifAnimado.exe
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\bin\Debug\net6.0-windows\Practica1GifAnimado.deps.json
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\bin\Debug\net6.0-windows\Practica1GifAnimado.runtimeconfig.json
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\bin\Debug\net6.0-windows\Practica1GifAnimado.dll
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\bin\Debug\net6.0-windows\Practica1GifAnimado.pdb
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\obj\Debug\net6.0-windows\Practica1GifAnimado.Form1.resources
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\obj\Debug\net6.0-windows\Practica1GifAnimado.Properties.Resources.resources
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\obj\Debug\net6.0-windows\Practica1GifAnimado.csproj.GenerateResource.cache
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\obj\Debug\net6.0-windows\Practica1GifAnimado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\obj\Debug\net6.0-windows\Practica1GifAnimado.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\obj\Debug\net6.0-windows\Practica1GifAnimado.AssemblyInfo.cs
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\obj\Debug\net6.0-windows\Practica1GifAnimado.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\obj\Debug\net6.0-windows\Practica1GifAnimado.dll
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\obj\Debug\net6.0-windows\refint\Practica1GifAnimado.dll
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\obj\Debug\net6.0-windows\Practica1GifAnimado.pdb
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\obj\Debug\net6.0-windows\Practica1GifAnimado.genruntimeconfig.cache
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica1GifAnimado\obj\Debug\net6.0-windows\ref\Practica1GifAnimado.dll

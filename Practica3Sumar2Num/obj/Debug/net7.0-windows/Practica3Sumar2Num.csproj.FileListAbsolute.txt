@@ -1,0 +1,17 @@
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\obj\Debug\net7.0-windows\Practica3Sumar2Num.Form1.resources
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\obj\Debug\net7.0-windows\Practica3Sumar2Num.Properties.Resources.resources
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\obj\Debug\net7.0-windows\Practica3Sumar2Num.csproj.GenerateResource.cache
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\obj\Debug\net7.0-windows\Practica3Sumar2Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\obj\Debug\net7.0-windows\Practica3Sumar2Num.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\obj\Debug\net7.0-windows\Practica3Sumar2Num.AssemblyInfo.cs
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\obj\Debug\net7.0-windows\Practica3Sumar2Num.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\bin\Debug\net7.0-windows\Practica3Sumar2Num.exe
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\bin\Debug\net7.0-windows\Practica3Sumar2Num.deps.json
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\bin\Debug\net7.0-windows\Practica3Sumar2Num.runtimeconfig.json
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\bin\Debug\net7.0-windows\Practica3Sumar2Num.dll
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\bin\Debug\net7.0-windows\Practica3Sumar2Num.pdb
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\obj\Debug\net7.0-windows\Practica3Sumar2Num.dll
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\obj\Debug\net7.0-windows\refint\Practica3Sumar2Num.dll
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\obj\Debug\net7.0-windows\Practica3Sumar2Num.pdb
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\obj\Debug\net7.0-windows\Practica3Sumar2Num.genruntimeconfig.cache
+C:\Users\Alumnos\Downloads\IntroProgramacion_DOP\Practica3Sumar2Num\obj\Debug\net7.0-windows\ref\Practica3Sumar2Num.dll
