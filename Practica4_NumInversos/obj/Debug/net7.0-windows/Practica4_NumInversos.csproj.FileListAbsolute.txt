@@ -1,0 +1,17 @@
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\bin\Debug\net7.0-windows\Practica4_NumInversos.exe
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\bin\Debug\net7.0-windows\Practica4_NumInversos.deps.json
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\bin\Debug\net7.0-windows\Practica4_NumInversos.runtimeconfig.json
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\bin\Debug\net7.0-windows\Practica4_NumInversos.dll
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\bin\Debug\net7.0-windows\Practica4_NumInversos.pdb
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\obj\Debug\net7.0-windows\Practica4_NumInversos.Form1.resources
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\obj\Debug\net7.0-windows\Practica4_NumInversos.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\obj\Debug\net7.0-windows\Practica4_NumInversos.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\obj\Debug\net7.0-windows\Practica4_NumInversos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\obj\Debug\net7.0-windows\Practica4_NumInversos.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\obj\Debug\net7.0-windows\Practica4_NumInversos.AssemblyInfo.cs
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\obj\Debug\net7.0-windows\Practica4_NumInversos.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\obj\Debug\net7.0-windows\Practica4_NumInversos.dll
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\obj\Debug\net7.0-windows\refint\Practica4_NumInversos.dll
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\obj\Debug\net7.0-windows\Practica4_NumInversos.pdb
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\obj\Debug\net7.0-windows\Practica4_NumInversos.genruntimeconfig.cache
+C:\Users\Alumnos\Desktop\diana gif\Practica4_NumInversos\obj\Debug\net7.0-windows\ref\Practica4_NumInversos.dll
