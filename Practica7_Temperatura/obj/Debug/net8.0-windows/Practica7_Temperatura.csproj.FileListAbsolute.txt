@@ -1,0 +1,17 @@
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\bin\Debug\net8.0-windows\Practica7_Temperatura.exe
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\bin\Debug\net8.0-windows\Practica7_Temperatura.deps.json
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\bin\Debug\net8.0-windows\Practica7_Temperatura.runtimeconfig.json
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\bin\Debug\net8.0-windows\Practica7_Temperatura.dll
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\bin\Debug\net8.0-windows\Practica7_Temperatura.pdb
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\obj\Debug\net8.0-windows\Practica7_Temperatura.Form1.resources
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\obj\Debug\net8.0-windows\Practica7_Temperatura.Properties.Resources.resources
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\obj\Debug\net8.0-windows\Practica7_Temperatura.csproj.GenerateResource.cache
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\obj\Debug\net8.0-windows\Practica7_Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\obj\Debug\net8.0-windows\Practica7_Temperatura.AssemblyInfoInputs.cache
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\obj\Debug\net8.0-windows\Practica7_Temperatura.AssemblyInfo.cs
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\obj\Debug\net8.0-windows\Practica7_Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\obj\Debug\net8.0-windows\Practica7_Temperatura.dll
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\obj\Debug\net8.0-windows\refint\Practica7_Temperatura.dll
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\obj\Debug\net8.0-windows\Practica7_Temperatura.pdb
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\obj\Debug\net8.0-windows\Practica7_Temperatura.genruntimeconfig.cache
+C:\Users\Exornius\Downloads\VisualStudioProgramacion\Practica7_Temperatura\obj\Debug\net8.0-windows\ref\Practica7_Temperatura.dll
